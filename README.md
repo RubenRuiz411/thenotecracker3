@@ -22,7 +22,12 @@ How to use NodeJS/JavaScript to create a server.
 
 ## Installation
 
-N/A
+Clone repository and open cloned folder in VS Code. Within the VS Terminal install NPM and Inquirer. Once this is done, run the index.js file. 
+
+-Install [NPM](https://docs.npmjs.com/cli/v6/commands/npm-install) by running "npm i -y" in the Terminal.
+
+-Start the server within the VS Code Terminal by entering "npm start".
+
 
 ## Usage
 
